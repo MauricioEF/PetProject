@@ -1,0 +1,20 @@
+[
+  {
+    "name": "patitas",
+    "specie": "perro",
+    "thumbnail": "http://localhost:8080/img/1643984700269-perrito1.jpg",
+    "id": 1
+  },
+  {
+    "name": "pececin",
+    "specie": "pez",
+    "thumbnail": "http://localhost:8080/img/1643985248742-pececito1.jpg",
+    "id": 2
+  },
+  {
+    "name": "orejitas",
+    "specie": "gato",
+    "thumbnail": "http://localhost:8080/img/1643985296704-gatito1.jpg",
+    "id": 3
+  }
+]
